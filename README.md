@@ -1,6 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
+<--
 **manswad/manswad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently a student in Mount Carmel School.
@@ -11,3 +11,4 @@
 - 📫 How to reach me: wadhwamanveer@outlook.com
 - 😄 Pronouns: He/Him
 -->
+
